@@ -1,0 +1,28 @@
+
+# Arquivos de compilação .NET
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Arquivos do VS Code
+.vscode/
+
+# Resultados dos testes
+TestResults/
+*.trx
+
+# Relatórios de cobertura
+coverage/
+coverage.cobertura.xml
+
+# Arquivos temporários
+*.tmp
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
